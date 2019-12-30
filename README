@@ -1,3 +1,5 @@
+
+# About UCI Data :
 This directory contain a data set prepared for the use of participants
 for the 1994 AAAI Spring Symposium on Artificial Intelligence in Medicine.
 
@@ -10,4 +12,21 @@ Extract the data files from the archive.  On a Unix system, type
 'tar xvf icu-data.tar'.  This will create a new directory named  ICU-Data
 and extract all data files into that directory.  Very occasionally
 this may not work; in that case try 'tar xvof' instead of 'tar xvf'.
+
+
+# About Project:
+### Deep Learning Grid Search
+
+In this project, we will learn how to use the scikit-learn grid search capability.
+
+We are going to learn the following topics:
+
+* How to use Keras models in scikit-learn.
+* How to use grid search in scikit-learn.
+* How to tune batch size and training epochs.
+* How to tune learning rate
+* How to tune network weight initialization.
+* How to tune activation functions.
+* How to tune dropout regularization.
+* How to tune the number of neurons in the hidden layer.
 
